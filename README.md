@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 --- Java Practice Programs ---
 
 This repository contains my Java practice programs for learning and practice.
@@ -18,3 +19,6 @@ This repository contains my Java practice programs for learning and practice.
 
 ->Purpose
 To improve my Java programming skills and practice different concepts.
+=======
+# java_practice
+>>>>>>> a0db76158b65ed92c67e2cf45e4e898f53371f33
